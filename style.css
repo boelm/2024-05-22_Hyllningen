@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandiflora+One&display=swap');
+
+h1,
+h3 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    color: rgb(128, 14, 14);
+    font-family: "Grandiflora One", cursive;
+}
+
+footer {
+    padding: 1em;
+    background-color: rgb(128, 14, 14);
+    color: white;
+}
+
+.hero-image {
+    width: 100%;
+    margin: 0px;
+}
+
+.hero-description,
+.hero-top3 {
+
+    display: inline;
+}
+
+/* .hero-description{
+    float: left;
+}
+.hero-top3{
+    float: right;
+} */
